@@ -8,8 +8,8 @@ int main(void)
     int L = 337;
     int k = 5;
     int m = 3;
-    float area;
-    int people;
+    float area = 100.0f;
+    int people = 10000;
 
     printf("123\n");
     printf("1\n2\n3\n");
